@@ -126,6 +126,33 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Rhino",
+      "species": "Dog",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "haily",
+      "species": "cat",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "tom",
+      "species": "lizard",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "15"
     }
   ]
 }
